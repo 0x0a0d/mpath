@@ -1,5 +1,5 @@
 {
-  "name": "mpath",
+  "name": "@cylution/mpath",
   "version": "0.8.4",
   "description": "{G,S}et object values using MongoDB-like path notation",
   "main": "index.js",
@@ -26,5 +26,11 @@
     "eslint": "^7.16.0",
     "mocha": "^9.2.2",
     "ts-mocha": "^9.0.2"
-  }
+  },
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "lib",
+    "*.md"
+  ]
 }
